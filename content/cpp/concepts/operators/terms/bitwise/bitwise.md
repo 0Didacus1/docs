@@ -134,7 +134,7 @@ In the example above, 0 is added to the left side of 4 (100 in base-2). Then, th
 
 ```pseudo
 4 << 2
-00 + 100 + 00
+00 + 100 - 00
 ```
 
 In the example above, 00 is added to the left side of 4 (100 in base-2). Then, the two rightmost bits are removed, which yields
